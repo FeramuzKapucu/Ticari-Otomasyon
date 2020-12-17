@@ -1,0 +1,6 @@
+C:\Users\FERAMUZ\source\repos\TicariOtomasyon\Ticari\bin\Debug\Ticari.dll
+C:\Users\FERAMUZ\source\repos\TicariOtomasyon\Ticari\bin\Debug\Ticari.pdb
+C:\Users\FERAMUZ\source\repos\TicariOtomasyon\Ticari\obj\Debug\TicariOtomasyon.ORM.csprojAssemblyReference.cache
+C:\Users\FERAMUZ\source\repos\TicariOtomasyon\Ticari\obj\Debug\TicariOtomasyon.ORM.csproj.CoreCompileInputs.cache
+C:\Users\FERAMUZ\source\repos\TicariOtomasyon\Ticari\obj\Debug\Ticari.dll
+C:\Users\FERAMUZ\source\repos\TicariOtomasyon\Ticari\obj\Debug\Ticari.pdb
